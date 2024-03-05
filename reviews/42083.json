@@ -1,0 +1,37 @@
+{
+  "id": "42083",
+  "category": "Supercar",
+  "year": 2018,
+  "price": 400,
+  "features": {
+    "scale": "1:8",
+    "measures": {
+      "length": 56,
+      "width": 25,
+      "heigt": 14
+    },
+    "transmission": {
+      "engine": "W16",
+      "mount": "mid",
+      "size": "full",
+      "drivetrain": "4WD",
+      "gearbox": {
+        "gears": "8+N+R",
+        "shift": "paddles"
+      }
+    },
+    "suspensions": {
+      "front": "independent",
+      "rear": "independent"
+    },
+    "turning": {
+      "wheel": true,
+      "hog": false
+    },
+    "brakes": "complete",
+    "doors": "normal",
+    "bay": "visible",
+    "hood": "openable"
+  },
+  "review": []
+}

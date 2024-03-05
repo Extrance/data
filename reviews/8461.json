@@ -1,0 +1,34 @@
+{
+  "id": "8461",
+  "year": 2002,
+  "price": 200,
+  "features": {
+    "category": "F1 modern",
+    "scale": "1:8",
+    "measures": {
+      "length": 65,
+      "width": 28,
+      "heigt": 14
+    },
+    "transmission": {
+      "engine": "V10",
+      "mount": "mid",
+      "size": "full",
+      "drivetrain": "RWD",
+      "gearbox": null
+    },
+    "suspensions": {
+      "front": "push-rod",
+      "rear": "push-rod"
+    },
+    "turning": {
+      "wheel": true,
+      "hog": false
+    },
+    "brakes": null,
+    "doors": null,
+    "bay": "openable",
+    "hood": null
+  },
+  "review": []
+}

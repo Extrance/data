@@ -1,0 +1,34 @@
+{
+  "id": "42171",
+  "year": 2024,
+  "price": 220,
+  "features": {
+    "scale": "1:8",
+    "category": "F1 modern",
+    "measures": {
+      "length": 63,
+      "width": 26,
+      "heigt": 13
+    },
+    "transmission": {
+      "engine": "V6",
+      "mount": "mid",
+      "size": "full",
+      "drivetrain": "RWD",
+      "gearbox": null
+    },
+    "suspensions": {
+      "front": "push-rod",
+      "rear": "pull-rod"
+    },
+    "turning": {
+      "wheel": true,
+      "hog": true
+    },
+    "brakes": null,
+    "doors": null,
+    "bay": "openable",
+    "hood": null
+  },
+  "review": []
+}

@@ -1,0 +1,34 @@
+{
+  "id": "X03022",
+  "year": 2013,
+  "price": 65,
+  "features": {
+    "category": "F1 classic",
+    "scale": "1:8",
+    "measures": {
+      "length": 55,
+      "width": 26,
+      "heigt": 11
+    },
+    "transmission": {
+      "engine": "V12",
+      "mount": "mid",
+      "size": "full",
+      "drivetrain": "RWD",
+      "gearbox": null
+    },
+    "suspensions": {
+      "front": "push-rod",
+      "rear": "independent"
+    },
+    "turning": {
+      "wheel": true,
+      "hog": false
+    },
+    "brakes": "replica",
+    "doors": null,
+    "bay": "visible",
+    "hood": null
+  },
+  "review": []
+}
