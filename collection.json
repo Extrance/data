@@ -289,6 +289,97 @@
       "subBrand": "Technic",
       "name": "Mercedes-AMG F1 W14",
       "status": "OWNED"
+    },
+    {
+      "id": "42130",
+      "brand": "LEGO",
+      "subBrand": "Technic",
+      "name": "BMW M 1000 RR",
+      "status": "OWNED"
+    },
+    {
+      "id": "42159",
+      "brand": "LEGO",
+      "subBrand": "Technic",
+      "name": "Yamaha MT-10 SP",
+      "status": "OWNED"
+    },
+    {
+      "id": "42107",
+      "brand": "LEGO",
+      "subBrand": "Technic",
+      "name": "Ducati Panigale V4 R",
+      "status": "OWNED"
+    },
+    {
+      "id": "8051",
+      "brand": "LEGO",
+      "subBrand": "Technic",
+      "name": "Motorbike",
+      "status": "OWNED"
+    },
+    {
+      "id": "42063",
+      "brand": "LEGO",
+      "subBrand": "Technic",
+      "name": "BMW R 1200 GS",
+      "status": "OWNED"
+    },
+    {
+      "id": "42036",
+      "brand": "LEGO",
+      "subBrand": "Technic",
+      "name": "Street Motorcycle",
+      "status": "OWNED"
+    },
+    {
+      "id": "42170",
+      "brand": "LEGO",
+      "subBrand": "Technic",
+      "name": "Kawasaki Ninja",
+      "status": "OWNED"
+    },
+    {
+      "id": "10298",
+      "brand": "LEGO",
+      "subBrand": "Icons",
+      "name": "Vespa 125",
+      "status": "OWNED"
+    },
+    {
+      "id": "76909",
+      "brand": "LEGO",
+      "subBrand": "Speed Champions",
+      "name": "Mercedes F1 W12 e Mercedes AMG One",
+      "status": "OWNED"
+    },
+    {
+      "id": "76919",
+      "brand": "LEGO",
+      "subBrand": "Speed Champions",
+      "name": "McLaren F1 2023",
+      "status": "OWNED"
+    },
+    {
+      "id": "76916",
+      "brand": "LEGO",
+      "subBrand": "Speed Champions",
+      "name": "Porsche 963",
+      "status": "OWNED"
+    },
+    {
+      "id": "76914",
+      "brand": "LEGO",
+      "subBrand": "Speed Champions",
+      "name": "Ferrari 812 Competizione",
+      "status": "OWNED"
+    },
+    {
+      "id": "40517",
+      "brand": "LEGO",
+      "subBrand": "Creator",
+      "name": "Vespa",
+      "status": "OWNED"
     }
   ]
 }
