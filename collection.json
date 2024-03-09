@@ -4,39 +4,58 @@
       "id": "42083",
       "brand": "LEGO",
       "subBrand": "Technic",
-      "pieces": 3599,
       "name": "Bugatti Chiron",
       "status": "OWNED"
     },
     {
-      "id": "C61503W",
-      "brand": "CaDa",
-      "subBrand": "Masters",
-      "pieces": 3295,
-      "name": "Mercedes AMG One",
+      "id": "XB03022",
+      "brand": "Xingbao",
+      "subBrand": null,
+      "name": "Eagle MK1",
       "status": "OWNED"
     },
     {
       "id": "8461",
       "brand": "LEGO",
       "subBrand": "Racers",
-      "pieces": 1484,
       "name": "Williams F1",
+      "status": "OWNED"
+    },
+    {
+      "id": "MOCTP34",
+      "brand": "moc",
+      "subBrand": null,
+      "name": "Tyrrell P34",
+      "status": "OWNED"
+    },
+    {
+      "id": "C61041W",
+      "brand": "CaDa",
+      "subBrand": "Master",
+      "name": "Lamborghini Centenario",
+      "alternativeNames": [
+        "Supercar"
+      ],
       "status": "OWNED"
     },
     {
       "id": "42115",
       "brand": "LEGO",
       "subBrand": "Technic",
-      "pieces": 3696,
       "name": "Lamborghini Sián FKP 37",
+      "status": "OWNED"
+    },
+    {
+      "id": "T5003",
+      "brand": "TGL",
+      "subBrand": null,
+      "name": "Lamborghini Huracán EVO Spyder",
       "status": "OWNED"
     },
     {
       "id": "42143",
       "brand": "LEGO",
       "subBrand": "Technic",
-      "pieces": 3778,
       "name": "Ferrari Daytona SP3",
       "status": "OWNED"
     },
@@ -44,15 +63,40 @@
       "id": "8674",
       "brand": "LEGO",
       "subBrand": "Racers",
-      "pieces": 1246,
       "name": "Ferrari F1 Racer 1:8",
+      "status": "OWNED"
+    },
+    {
+      "id": "C61042W",
+      "brand": "CaDa",
+      "subBrand": "Master",
+      "name": "Ferrari 488 Pista",
+      "alternativeNames": [
+        "Italian Red Supercar"
+      ],
+      "status": "OWNED"
+    },
+    {
+      "id": "C61505W",
+      "brand": "CaDa",
+      "subBrand": "Master",
+      "name": "Ferrari LaFerrari",
+      "alternativeNames": [
+        "Viva Hypercar"
+      ],
+      "status": "OWNED"
+    },
+    {
+      "id": "XB03023",
+      "brand": "Xingbao",
+      "subBrand": null,
+      "name": "Ferrari 312T",
       "status": "OWNED"
     },
     {
       "id": "42056",
       "brand": "LEGO",
       "subBrand": "Technic",
-      "pieces": 2704,
       "name": "Porsche 911 GT3 RS",
       "status": "OWNED"
     },
@@ -60,23 +104,77 @@
       "id": "42141",
       "brand": "LEGO",
       "subBrand": "Technic",
-      "pieces": 1434,
       "name": "McLaren F1 2022",
+      "status": "OWNED"
+    },
+    {
+      "id": "CW006E",
+      "brand": "Carolyn's",
+      "subBrand": "Technic",
+      "name": "McLaren P1",
+      "alternativeNames": [
+        "P1 Hypercar"
+      ],
+      "status": "OWNED"
+    },
+    {
+      "id": "MK13080",
+      "brand": "Mould King",
+      "subBrand": "Models",
+      "name": "Bugatti 50T",
+      "alternativeNames": [
+        "50T Vintage car"
+      ],
+      "status": "OWNED"
+    },
+    {
+      "id": "MY88012",
+      "brand": "MoYu Block",
+      "subBrand": null,
+      "name": "Koenigsegg Gemera",
+      "status": "OWNED"
+    },
+    {
+      "id": "C61503W",
+      "brand": "CaDa",
+      "subBrand": "Master",
+      "name": "Mercedes AMG One",
       "status": "OWNED"
     },
     {
       "id": "8454",
       "brand": "LEGO",
       "subBrand": "Racers",
-      "pieces": 1433,
       "name": "Silver Champion",
+      "status": "OWNED"
+    },
+    {
+      "id": "C61048W",
+      "brand": "CaDa",
+      "subBrand": "Master",
+      "name": "Koenigsegg Jesko",
+      "alternativeNames": ["Fantasma Sports Car"],
+      "status": "OWNED"
+    },
+    {
+      "id": "C61053W",
+      "brand": "CaDa",
+      "subBrand": "Master",
+      "name": "Apollo Intensa Emozione",
+      "alternativeNames": ["V12 Hypercar"],
+      "status": "OWNED"
+    },
+    {
+      "id": "MOCMP44",
+      "brand": "moc",
+      "subBrand": null,
+      "name": "McLaren MP4/4",
       "status": "OWNED"
     },
     {
       "id": "8070",
       "brand": "LEGO",
       "subBrand": "Technic",
-      "pieces": 1281,
       "name": "Supercar",
       "status": "OWNED"
     },
@@ -84,7 +182,6 @@
       "id": "42125",
       "brand": "LEGO",
       "subBrand": "Technic",
-      "pieces": 1677,
       "name": "Ferrari 488 GTE AF Corse",
       "status": "OWNED"
     },
@@ -92,7 +189,6 @@
       "id": "42000",
       "brand": "LEGO",
       "subBrand": "Technic",
-      "pieces": 1141,
       "name": "Grand Prix Racer",
       "status": "OWNED"
     },
@@ -100,7 +196,6 @@
       "id": "42096",
       "brand": "LEGO",
       "subBrand": "Technic",
-      "pieces": 1580,
       "name": "Porsche 911 RSR",
       "status": "OWNED"
     },
@@ -108,7 +203,6 @@
       "id": "42077",
       "brand": "LEGO",
       "subBrand": "Technic",
-      "pieces": 1005,
       "name": "Rally Car",
       "status": "OWNED"
     },
@@ -116,15 +210,20 @@
       "id": "42156",
       "brand": "LEGO",
       "subBrand": "Technic",
-      "pieces": 1775,
       "name": "Peugeot 9X8",
+      "status": "OWNED"
+    },
+    {
+      "id": "C61016",
+      "brand": "CaDa",
+      "subBrand": null,
+      "name": "Porsche 919 Hybrid",
       "status": "OWNED"
     },
     {
       "id": "42039",
       "brand": "LEGO",
       "subBrand": "Technic",
-      "pieces": 1219,
       "name": "24 Hours Race Car",
       "status": "OWNED"
     },
@@ -132,7 +231,6 @@
       "id": "42048",
       "brand": "LEGO",
       "subBrand": "Technic",
-      "pieces": 345,
       "name": "Race Kart",
       "status": "OWNED"
     },
@@ -140,7 +238,6 @@
       "id": "8653",
       "brand": "clone",
       "subBrand": "Racers",
-      "pieces": 1360,
       "name": "Ferrari Enzo",
       "status": "OWNED"
     },
@@ -148,7 +245,6 @@
       "id": "8386",
       "brand": "LEGO",
       "subBrand": "Racers",
-      "pieces": 719,
       "name": "Ferrari F1 Racer 1:10",
       "status": "OWNED"
     },
@@ -156,7 +252,6 @@
       "id": "8185",
       "brand": "clone",
       "subBrand": "Racers",
-      "pieces": 1326,
       "name": "Ferrari 599 GTB Fiorano",
       "status": "OWNED"
     },
@@ -164,7 +259,6 @@
       "id": "42110",
       "brand": "LEGO",
       "subBrand": "Technic",
-      "pieces": 2573,
       "name": "Land Rover Defender",
       "status": "OWNED"
     },
@@ -172,33 +266,29 @@
       "id": "42154",
       "brand": "LEGO",
       "subBrand": "Technic",
-      "pieces": 1466,
       "name": "Ford GT",
+      "status": "OWNED"
+    },
+    {
+      "id": "C001",
+      "brand": "Kaco Block",
+      "subBrand": null,
+      "name": "Aston Martin V12 Vantage",
+      "status": "OWNED"
+    },
+    {
+      "id": "C64005W",
+      "brand": "CaDa",
+      "subBrand": null,
+      "name": "Alfa Romeo F1 C42",
       "status": "OWNED"
     },
     {
       "id": "42171",
       "brand": "LEGO",
       "subBrand": "Technic",
-      "pieces": 1642,
       "name": "Mercedes-AMG F1 W14",
       "status": "OWNED"
-    },
-    {
-      "id": "C64005W",
-      "brand": "CaDa",
-      "subBrand": "Masters",
-      "pieces": 1868,
-      "name": "Alfa Romeo C42",
-      "status": "OWNED"
-    },
-    {
-      "id": "xxx",
-      "brand": "CaDa",
-      "subBrand": "Masters",
-      "pieces": 0,
-      "name": "Suzuki Katana",
-      "status": "WANTED"
     }
   ]
 }
