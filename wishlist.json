@@ -1,15 +1,6 @@
 {
   "data": [
     {
-      "id": "C59021W",
-      "brand": "CaDa",
-      "subBrand": null,
-      "name": "Suzuki Katana",
-      "status": "WANTED",
-      "price": 60.00,
-      "ref": "https://decadastore.com/products/cada-suzuki-katana-motorcycle-c59021w"
-    },
-    {
       "id": "C64003W",
       "brand": "CaDa",
       "subBrand": "Master",

@@ -380,6 +380,13 @@
       "subBrand": "Creator",
       "name": "Vespa",
       "status": "OWNED"
+    },
+    {
+      "id": "C59021W",
+      "brand": "CaDa",
+      "subBrand": null,
+      "name": "Suzuki Katana",
+      "status": "OWNED"
     }
   ]
 }
