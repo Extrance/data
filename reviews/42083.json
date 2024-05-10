@@ -1,6 +1,8 @@
 {
   "id": "42083",
   "name": "Bugatti Chiron",
+  "brand": "LEGO",
+  "subBrand": "Technic",
   "category": "Supercar",
   "year": 2018,
   "price": 400,

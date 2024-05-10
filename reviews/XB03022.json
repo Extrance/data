@@ -1,6 +1,8 @@
 {
   "id": "XB03022",
   "name": "Eagle MK1",
+  "brand": "Xingbao",
+  "subBrand": null,
   "year": 2013,
   "price": 65,
   "features": {

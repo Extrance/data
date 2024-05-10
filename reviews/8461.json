@@ -1,6 +1,8 @@
 {
   "id": "8461",
   "name": "Williams F1",
+  "brand": "LEGO",
+  "subBrand": "Racers",
   "year": 2002,
   "price": 200,
   "features": {

@@ -1,6 +1,8 @@
 {
   "id": "MOCTP34",
   "name": "Tyrrell P34",
+  "brand": "moc",
+  "subBrand": null,
   "year": 2023,
   "price": 155,
   "features": {

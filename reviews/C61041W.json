@@ -1,6 +1,8 @@
 {
   "id": "C61041W",
   "name": "Lamborghini Centenario",
+  "brand": "CaDa",
+  "subBrand": "Master",
   "year": 2020,
   "price": 150,
   "features": {
