@@ -1,5 +1,6 @@
 {
   "id": "8461",
+  "name": "Williams F1",
   "year": 2002,
   "price": 200,
   "features": {
@@ -28,7 +29,8 @@
     "brakes": null,
     "doors": null,
     "bay": "openable",
-    "hood": null
+    "hood": null,
+    "mainFeature": "Engine cover openable by a lever"
   },
   "review": []
 }

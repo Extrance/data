@@ -1,5 +1,6 @@
 {
   "id": "42171",
+  "name": "Mercedes-AMG F1 W14",
   "year": 2024,
   "price": 220,
   "features": {
@@ -28,7 +29,8 @@
     "brakes": null,
     "doors": null,
     "bay": "openable",
-    "hood": null
+    "hood": null,
+    "mainFeature": "Rear pull-rod suspension"
   },
   "review": []
 }

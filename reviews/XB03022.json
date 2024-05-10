@@ -1,5 +1,6 @@
 {
   "id": "XB03022",
+  "name": "Eagle MK1",
   "year": 2013,
   "price": 65,
   "features": {
@@ -28,7 +29,8 @@
     "brakes": "replica",
     "doors": null,
     "bay": "visible",
-    "hood": null
+    "hood": null,
+    "mainFeature": "Detailed V12 engine and exhaust"
   },
   "review": []
 }

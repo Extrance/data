@@ -1,5 +1,6 @@
 {
   "id": "C61041W",
+  "name": "Lamborghini Centenario",
   "year": 2020,
   "price": 150,
   "features": {
@@ -31,7 +32,8 @@
     "brakes": "complete",
     "doors": "mechanical scissor",
     "bay": "openable",
-    "hood": "openable"
+    "hood": "openable",
+    "mainFeature": "7-speed gearbox"
   },
   "review": []
 }

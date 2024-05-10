@@ -1,5 +1,6 @@
 {
   "id": "42083",
+  "name": "Bugatti Chiron",
   "category": "Supercar",
   "year": 2018,
   "price": 400,
@@ -31,7 +32,8 @@
     "brakes": "complete",
     "doors": "normal",
     "bay": "visible",
-    "hood": "openable"
+    "hood": "openable",
+    "mainFeature": "Rear wing can be deployed by using a key"
   },
   "review": []
 }

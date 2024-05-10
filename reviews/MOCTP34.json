@@ -1,5 +1,6 @@
 {
   "id": "MOCTP34",
+  "name": "Tyrrell P34",
   "year": 2023,
   "price": 155,
   "features": {
@@ -28,7 +29,8 @@
     "brakes": "replica",
     "doors": null,
     "bay": "visible",
-    "hood": null
+    "hood": null,
+    "mainFeature": "Wheel steers all 4 front wheels"
   },
   "review": []
 }
