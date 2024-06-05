@@ -1,0 +1,38 @@
+{
+  "id": "T5003",
+  "name": "Lamborghini Huracán EVO Spyder",
+  "brand": "TGL",
+  "subBrand": null,
+  "year": 2021,
+  "price": 90,
+  "features": {
+    "scale": "1:8",
+    "category": "Supercar",
+    "measures": {
+      "length": 57,
+      "width": 27,
+      "height": 15
+    },
+    "transmission": {
+      "engine": "V10",
+      "mount": "mid",
+      "size": "full",
+      "drivetrain": "RWD/AWD",
+      "gearbox": null
+    },
+    "suspensions": {
+      "front": "independent",
+      "rear": "independent"
+    },
+    "turning": {
+      "wheel": true,
+      "hog": true
+    },
+    "brakes": "complete",
+    "doors": "scissor",
+    "bay": "removable",
+    "hood": "openable",
+    "mainFeature": "Drivetrain can be switched between RWD and AWD"
+  },
+  "review": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "42143",
+  "name": "Ferrari Daytona SP3",
+  "brand": "LEGO",
+  "subBrand": "Technic",
+  "year": 2022,
+  "price": 400,
+  "features": {
+    "scale": "1:8",
+    "category": "Supercar",
+    "measures": {
+      "length": 59,
+      "width": 25,
+      "height": 14
+    },
+    "transmission": {
+      "engine": "V12",
+      "mount": "mid",
+      "size": "full",
+      "drivetrain": "RWD",
+      "gearbox": {
+        "gears": "8+N+R",
+        "shift": "paddles"
+      }
+    },
+    "suspensions": {
+      "front": "independent",
+      "rear": "independent"
+    },
+    "turning": {
+      "wheel": true,
+      "hog": false
+    },
+    "brakes": "complete",
+    "doors": "butterfly",
+    "bay": "openable",
+    "hood": "openable",
+    "mainFeature": "Roof can be removed"
+  },
+  "review": []
+}

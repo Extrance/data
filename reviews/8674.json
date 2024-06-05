@@ -1,0 +1,38 @@
+{
+  "id": "8674",
+  "name": "Ferrari F1 Racer 1:8",
+  "brand": "LEGO",
+  "subBrand": "Racers",
+  "year": 2006,
+  "price": 180,
+  "features": {
+    "category": "F1 modern",
+    "scale": "1:8",
+    "measures": {
+      "length": 62,
+      "width": 19,
+      "height": 15
+    },
+    "transmission": {
+      "engine": "V10",
+      "mount": "mid",
+      "size": "full",
+      "drivetrain": "RWD",
+      "gearbox": null
+    },
+    "suspensions": {
+      "front": "push-rod",
+      "rear": "push-rod"
+    },
+    "turning": {
+      "wheel": true,
+      "hog": false
+    },
+    "brakes": null,
+    "doors": null,
+    "bay": "removable",
+    "hood": null,
+    "mainFeature": "Front wing can be removed"
+  },
+  "review": []
+}

@@ -5,7 +5,9 @@
       "brand": "CaDa",
       "subBrand": "Master",
       "name": "Apollo Intensa Emozione - Static",
-      "alternativeNames": ["V12 Hypercar Static Version"],
+      "alternativeNames": [
+        "V12 Hypercar Static Version"
+      ],
       "status": "WANTED",
       "price": 174.99,
       "ref": "https://decadastore.com/products/cada-v12-hypercar-static-version-c64003w"
@@ -99,7 +101,7 @@
       "status": "WANTED",
       "price": 24.99,
       "ref": "https://www.lego.com/it-it/product/lotus-evija-76907"
-    }, 
+    },
     {
       "id": "C55026W",
       "brand": "CaDa",
@@ -108,6 +110,30 @@
       "status": "WANTED",
       "price": 20.99,
       "ref": "https://decadastore.com/products/1-24-alfa-romeo-f1-team-orlen-c42-c55026w"
+    },
+    {
+      "id": "76924",
+      "brand": "LEGO",
+      "subBrand": "Speed Champions",
+      "name": "Mercedes-AMG G 63 e Mercedes-AMG SL 63",
+      "price": 49.99,
+      "ref": "https://www.lego.com/it-it/product/mercedes-amg-g-63-mercedes-amg-sl-63-76924"
+    },
+    {
+      "id": "76923",
+      "brand": "LEGO",
+      "subBrand": "Speed Champions",
+      "name": "Super car Lamborghini Lambo V12 Vision GT",
+      "price": 26.99,
+      "ref": "https://www.lego.com/it-it/product/lamborghini-lambo-v12-vision-gt-super-car-76923"
+    },
+    {
+      "id": "76925",
+      "brand": "LEGO",
+      "subBrand": "Speed Champions",
+      "name": "Safety Car Aston Martin e AMR23",
+      "price": 49.99,
+      "ref": "https://www.lego.com/it-it/product/aston-martin-safety-car-amr23-76925"
     }
   ]
 }

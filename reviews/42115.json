@@ -1,0 +1,41 @@
+{
+  "id": "42115",
+  "name": "Lamborghini Sián FKP 37",
+  "brand": "LEGO",
+  "subBrand": "Technic",
+  "year": 2020,
+  "price": 270,
+  "features": {
+    "scale": "1:8",
+    "category": "Supercar",
+    "measures": {
+      "length": 60,
+      "width": 25,
+      "height": 13
+    },
+    "transmission": {
+      "engine": "V12",
+      "mount": "mid",
+      "size": "full",
+      "drivetrain": "4WD",
+      "gearbox": {
+        "gears": "8+N+R",
+        "shift": "paddles"
+      }
+    },
+    "suspensions": {
+      "front": "independent",
+      "rear": "independent"
+    },
+    "turning": {
+      "wheel": true,
+      "hog": false
+    },
+    "brakes": "complete",
+    "doors": "scissor",
+    "bay": "openable",
+    "hood": "openable",
+    "mainFeature": "Rear wing can be operated with a lever located on front of the passenger seat"
+  },
+  "review": []
+}
