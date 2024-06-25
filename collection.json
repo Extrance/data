@@ -382,6 +382,13 @@
       "status": "OWNED"
     },
     {
+      "id": "76925",
+      "brand": "LEGO",
+      "subBrand": "Speed Champions",
+      "name": "Safety Car Aston Martin e AMR23",
+      "status": "OWNED"
+    },
+    {
       "id": "40517",
       "brand": "LEGO",
       "subBrand": "Creator",
@@ -393,6 +400,20 @@
       "brand": "CaDa",
       "subBrand": null,
       "name": "Suzuki Katana",
+      "status": "OWNED"
+    },
+    {
+      "id": "MOCL43",
+      "brand": "moc",
+      "subBrand": null,
+      "name": "Lotus 43",
+      "status": "OWNED"
+    },
+    {
+      "id": "MOCL79",
+      "brand": "moc",
+      "subBrand": null,
+      "name": "Lotus 79",
       "status": "OWNED"
     }
   ]
