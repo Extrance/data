@@ -8,8 +8,8 @@
       "alternativeNames": [
         "V12 Hypercar Static Version"
       ],
-      "status": "WANTED",
       "price": 174.99,
+      "watching": [],
       "ref": "https://decadastore.com/products/cada-v12-hypercar-static-version-c64003w"
     },
     {
@@ -17,8 +17,8 @@
       "brand": "LEGO",
       "subBrand": "Technic",
       "name": "NEOM McLaren Formula E Race Car",
-      "status": "WANTED",
       "price": 52.99,
+      "watching": [],
       "ref": "https://www.lego.com/it-it/product/neom-mclaren-formula-e-race-car-42169"
     },
     {
@@ -26,8 +26,8 @@
       "brand": "LEGO",
       "subBrand": "Icons",
       "name": "McLaren MP4/4 e Ayrton Senna",
-      "status": "WANTED",
       "price": 79.99,
+      "watching": [],
       "ref": "https://www.lego.com/it-it/product/mclaren-mp4-4-ayrton-senna-10330"
     },
     {
@@ -35,8 +35,8 @@
       "brand": "LEGO",
       "subBrand": "Speed Champions",
       "name": "Auto da corsa BMW M4 GT3 e BMW M Hybrid V8",
-      "status": "WANTED",
       "price": 49.99,
+      "watching": [],
       "ref": "https://www.lego.com/it-it/product/bmw-m4-gt3-bmw-m-hybrid-v8-race-cars-76922"
     },
     {
@@ -44,8 +44,8 @@
       "brand": "LEGO",
       "subBrand": "Speed Champions",
       "name": "Auto sportiva Ford Mustang Dark Horse",
-      "status": "WANTED",
       "price": 26.99,
+      "watching": [],
       "ref": "https://www.lego.com/it-it/product/ford-mustang-dark-horse-sports-car-76920"
     },
     {
@@ -53,8 +53,8 @@
       "brand": "LEGO",
       "subBrand": "Speed Champions",
       "name": "Auto da corsa Audi S1 e-tron quattro",
-      "status": "WANTED",
       "price": 26.99,
+      "watching": [],
       "ref": "https://www.lego.com/it-it/product/audi-s1-e-tron-quattro-race-car-76921"
     },
     {
@@ -62,8 +62,8 @@
       "brand": "LEGO",
       "subBrand": "Speed Champions",
       "name": "Lamborghini Countach",
-      "status": "WANTED",
       "price": 26.99,
+      "watching": [],
       "ref": "https://www.lego.com/it-it/product/lamborghini-countach-76908"
     },
     {
@@ -71,8 +71,8 @@
       "brand": "LEGO",
       "subBrand": "Speed Champions",
       "name": "1970 Ferrari 512 M",
-      "status": "WANTED",
       "price": 24.99,
+      "watching": [],
       "ref": "https://www.lego.com/it-it/product/1970-ferrari-512-m-76906"
     },
     {
@@ -80,8 +80,8 @@
       "brand": "LEGO",
       "subBrand": "Speed Champions",
       "name": "2 Fast 2 Furious Nissan Skyline GT-R (R34)",
-      "status": "WANTED",
       "price": 24.99,
+      "watching": [],
       "ref": "https://www.lego.com/it-it/product/2-fast-2-furious-nissan-skyline-gt-r-r34-76917"
     },
     {
@@ -89,8 +89,8 @@
       "brand": "LEGO",
       "subBrand": "Speed Champions",
       "name": "Pagani Utopia",
-      "status": "WANTED",
       "price": 24.99,
+      "watching": [],
       "ref": "https://www.lego.com/it-it/product/pagani-utopia-76915"
     },
     {
@@ -98,8 +98,8 @@
       "brand": "LEGO",
       "subBrand": "Speed Champions",
       "name": "Lotus Evija",
-      "status": "WANTED",
       "price": 24.99,
+      "watching": [],
       "ref": "https://www.lego.com/it-it/product/lotus-evija-76907"
     },
     {
@@ -107,8 +107,8 @@
       "brand": "CaDa",
       "subBrand": null,
       "name": "Alfa Romeo F1 C42 1:24",
-      "status": "WANTED",
       "price": 20.99,
+      "watching": [],
       "ref": "https://decadastore.com/products/1-24-alfa-romeo-f1-team-orlen-c42-c55026w"
     },
     {
@@ -117,6 +117,7 @@
       "subBrand": "Speed Champions",
       "name": "Mercedes-AMG G 63 e Mercedes-AMG SL 63",
       "price": 49.99,
+      "watching": [],
       "ref": "https://www.lego.com/it-it/product/mercedes-amg-g-63-mercedes-amg-sl-63-76924"
     },
     {
@@ -125,6 +126,7 @@
       "subBrand": "Speed Champions",
       "name": "Super car Lamborghini Lambo V12 Vision GT",
       "price": 26.99,
+      "watching": [],
       "ref": "https://www.lego.com/it-it/product/lamborghini-lambo-v12-vision-gt-super-car-76923"
     }
   ]

@@ -1,38 +1,31 @@
 {
   "id": "42171",
-  "name": "Mercedes-AMG F1 W14",
-  "brand": "LEGO",
-  "subBrand": "Technic",
-  "year": 2024,
-  "price": 220,
-  "features": {
-    "scale": "1:8",
-    "category": "F1 modern",
-    "measures": {
-      "length": 63,
-      "width": 26,
-      "height": 13
+  "review": [
+    {
+      "locale": "it",
+      "sections": [
+        {
+          "title": "Storia",
+          "content": ""
+        },
+        {
+          "title": "Descrizione",
+          "content": ""
+        }
+      ]
     },
-    "transmission": {
-      "engine": "V6",
-      "mount": "mid",
-      "size": "full",
-      "drivetrain": "RWD",
-      "gearbox": null
-    },
-    "suspensions": {
-      "front": "push-rod",
-      "rear": "pull-rod"
-    },
-    "turning": {
-      "wheel": true,
-      "hog": true
-    },
-    "brakes": null,
-    "doors": null,
-    "bay": "openable",
-    "hood": null,
-    "mainFeature": "Rear pull-rod suspension"
-  },
-  "review": []
+    {
+      "locale": "en",
+      "sections": [
+        {
+          "title": "Story",
+          "content": ""
+        },
+        {
+          "title": "Description",
+          "content": ""
+        }
+      ]
+    }
+  ]
 }
