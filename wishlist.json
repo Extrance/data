@@ -1,6 +1,7 @@
 {
   "data": [
     {
+      "category": "LEGO",
       "id": "C64003W",
       "brand": "CaDa",
       "subBrand": "Master",
@@ -13,6 +14,7 @@
       "ref": "https://decadastore.com/products/cada-v12-hypercar-static-version-c64003w"
     },
     {
+      "category": "LEGO",
       "id": "42169",
       "brand": "LEGO",
       "subBrand": "Technic",
@@ -22,6 +24,7 @@
       "ref": "https://www.lego.com/it-it/product/neom-mclaren-formula-e-race-car-42169"
     },
     {
+      "category": "LEGO",
       "id": "10330",
       "brand": "LEGO",
       "subBrand": "Icons",
@@ -31,6 +34,7 @@
       "ref": "https://www.lego.com/it-it/product/mclaren-mp4-4-ayrton-senna-10330"
     },
     {
+      "category": "LEGO",
       "id": "76922",
       "brand": "LEGO",
       "subBrand": "Speed Champions",
@@ -40,6 +44,7 @@
       "ref": "https://www.lego.com/it-it/product/bmw-m4-gt3-bmw-m-hybrid-v8-race-cars-76922"
     },
     {
+      "category": "LEGO",
       "id": "76920",
       "brand": "LEGO",
       "subBrand": "Speed Champions",
@@ -49,6 +54,7 @@
       "ref": "https://www.lego.com/it-it/product/ford-mustang-dark-horse-sports-car-76920"
     },
     {
+      "category": "LEGO",
       "id": "76921",
       "brand": "LEGO",
       "subBrand": "Speed Champions",
@@ -58,6 +64,7 @@
       "ref": "https://www.lego.com/it-it/product/audi-s1-e-tron-quattro-race-car-76921"
     },
     {
+      "category": "LEGO",
       "id": "76908",
       "brand": "LEGO",
       "subBrand": "Speed Champions",
@@ -67,6 +74,7 @@
       "ref": "https://www.lego.com/it-it/product/lamborghini-countach-76908"
     },
     {
+      "category": "LEGO",
       "id": "76906",
       "brand": "LEGO",
       "subBrand": "Speed Champions",
@@ -76,6 +84,7 @@
       "ref": "https://www.lego.com/it-it/product/1970-ferrari-512-m-76906"
     },
     {
+      "category": "LEGO",
       "id": "76917",
       "brand": "LEGO",
       "subBrand": "Speed Champions",
@@ -85,6 +94,7 @@
       "ref": "https://www.lego.com/it-it/product/2-fast-2-furious-nissan-skyline-gt-r-r34-76917"
     },
     {
+      "category": "LEGO",
       "id": "76915",
       "brand": "LEGO",
       "subBrand": "Speed Champions",
@@ -94,6 +104,7 @@
       "ref": "https://www.lego.com/it-it/product/pagani-utopia-76915"
     },
     {
+      "category": "LEGO",
       "id": "76907",
       "brand": "LEGO",
       "subBrand": "Speed Champions",
@@ -103,6 +114,7 @@
       "ref": "https://www.lego.com/it-it/product/lotus-evija-76907"
     },
     {
+      "category": "LEGO",
       "id": "C55026W",
       "brand": "CaDa",
       "subBrand": null,
@@ -112,6 +124,7 @@
       "ref": "https://decadastore.com/products/1-24-alfa-romeo-f1-team-orlen-c42-c55026w"
     },
     {
+      "category": "LEGO",
       "id": "76924",
       "brand": "LEGO",
       "subBrand": "Speed Champions",
@@ -121,6 +134,7 @@
       "ref": "https://www.lego.com/it-it/product/mercedes-amg-g-63-mercedes-amg-sl-63-76924"
     },
     {
+      "category": "LEGO",
       "id": "76923",
       "brand": "LEGO",
       "subBrand": "Speed Champions",
