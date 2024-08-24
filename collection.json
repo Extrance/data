@@ -19,7 +19,7 @@
       "name": "Williams F1"
     },
     {
-      "id": "MOCTP34",
+      "id": "MOC_TP34",
       "brand": "moc",
       "subBrand": null,
       "name": "Tyrrell P34"
@@ -144,7 +144,7 @@
       "alternativeNames": ["V12 Hypercar"]
     },
     {
-      "id": "MOCMP44",
+      "id": "MOC_MP44",
       "brand": "moc",
       "subBrand": null,
       "name": "McLaren MP4/4"
@@ -348,16 +348,37 @@
       "name": "Suzuki Katana"
     },
     {
-      "id": "MOCL43",
+      "id": "MOC_L43",
       "brand": "moc",
       "subBrand": null,
       "name": "Lotus 43"
     },
     {
-      "id": "MOCL79",
+      "id": "MOC_L79",
       "brand": "moc",
       "subBrand": null,
       "name": "Lotus 79"
+    },
+    {
+      "id": "93510",
+      "brand": "Rastar",
+      "subBrand":null,
+      "name": "Maserati MC20",
+      "alternativeNames": [
+        "Maserati Nettuno"
+      ]
+    },
+    {
+      "id": "92400",
+      "brand": "Rastar",
+      "subBrand":null,
+      "name": "Red Bull RB19"
+    },
+    {
+      "id": "MOC__FW14B",
+      "brand": "moc",
+      "subBrand": null,
+      "name": "Williams FW14B"
     }
   ]
 }
