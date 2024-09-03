@@ -379,6 +379,12 @@
       "brand": "moc",
       "subBrand": null,
       "name": "Williams FW14B"
+    },
+    {
+      "id": "MOC_BT52",
+      "brand": "moc",
+      "subBrand": null,
+      "name": "Brabham BT52"
     }
   ]
 }

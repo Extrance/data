@@ -1,0 +1,66 @@
+{
+  "data": [ 
+    {
+      "name": "One Piece",
+      "edition": "Serie blu",
+      "total": 108,
+      "owned": 108,
+      "status": "ONGOING"
+    },
+    {
+      "name": "Naruto",
+      "edition": "Serie rossa",
+      "total": 72,
+      "owned": 72,
+      "status": "FINISHED"
+    },
+    {
+      "name": "Yu-Gi-Oh",
+      "edition": "Complete Edition",
+      "total": 13,
+      "owned": 13,
+      "status": "FINISHED"
+    },
+    {
+      "name": "Attack on Titan",
+      "total": 34,
+      "owned": 34,
+      "status": "FINISHED"
+    },
+    {
+      "name": "Berserk",
+      "edition": "Serie nera",
+      "total": 42,
+      "owned": 41,
+      "status": "ONGOING"
+    },
+    {
+      "name": "Initial D",
+      "total": 24,
+      "owned": 10,
+      "status": "ONGOING"
+    },
+    {
+      "name": "20th Century Boys",
+      "edition": "Ultimate Deluxe Edition",
+      "total": 11,
+      "owned": 10,
+      "status": "FINISHED"
+    },
+    {
+      "name": "Dragon Ball",
+      "edition": "Evergreen Edition",
+      "total": 42,
+      "owned": 0,
+      "status": "FINISHED",
+      "wanted": true
+    },
+    {
+      "name": "Topolino",
+      "total": 3585,
+      "owned": 1979,
+      "status": "ONGOING"
+    }
+  ],
+  "last_update": "2024-09-03"
+}
