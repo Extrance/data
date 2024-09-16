@@ -65,16 +65,6 @@
     },
     {
       "category": "LEGO",
-      "id": "76908",
-      "brand": "LEGO",
-      "subBrand": "Speed Champions",
-      "name": "Lamborghini Countach",
-      "price": 26.99,
-      "watching": [],
-      "ref": "https://www.lego.com/it-it/product/lamborghini-countach-76908"
-    },
-    {
-      "category": "LEGO",
       "id": "76906",
       "brand": "LEGO",
       "subBrand": "Speed Champions",
@@ -82,16 +72,6 @@
       "price": 24.99,
       "watching": [],
       "ref": "https://www.lego.com/it-it/product/1970-ferrari-512-m-76906"
-    },
-    {
-      "category": "LEGO",
-      "id": "76917",
-      "brand": "LEGO",
-      "subBrand": "Speed Champions",
-      "name": "2 Fast 2 Furious Nissan Skyline GT-R (R34)",
-      "price": 24.99,
-      "watching": [],
-      "ref": "https://www.lego.com/it-it/product/2-fast-2-furious-nissan-skyline-gt-r-r34-76917"
     },
     {
       "category": "LEGO",
@@ -144,5 +124,5 @@
       "ref": "https://www.lego.com/it-it/product/lamborghini-lambo-v12-vision-gt-super-car-76923"
     }
   ],
-  "last_update": "2024-09-03"
+  "last_update": "2024-09-16"
 }

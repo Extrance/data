@@ -385,7 +385,19 @@
       "brand": "moc",
       "subBrand": null,
       "name": "Brabham BT52"
+    },
+    {
+      "id": "76917",    
+      "brand": "LEGO",
+      "subBrand": "Speed Champions",
+      "name": "2 Fast 2 Furious Nissan Skyline GT-R (R34)"
+    },
+    {
+      "id": "76908",
+      "brand": "LEGO",
+      "subBrand": "Speed Champions",
+      "name": "Lamborghini Countach"
     }
   ],
-  "last_update": "2024-09-03"
+  "last_update": "2024-09-16"
 }
