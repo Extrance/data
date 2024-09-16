@@ -122,6 +122,26 @@
       "price": 26.99,
       "watching": [],
       "ref": "https://www.lego.com/it-it/product/lamborghini-lambo-v12-vision-gt-super-car-76923"
+    },
+    {
+      "category": "LEGO",
+      "id": "76934",
+      "brand": "LEGO",
+      "subBrand": "Speed Champions",
+      "name": "Supercar Ferrari F40",
+      "price": 26.99,
+      "watching": [],
+      "ref": "https://www.lego.com/it-it/product/ferrari-f40-supercar-76934"
+    },
+    {
+      "category": "LEGO",
+      "id": "76935",
+      "brand": "LEGO",
+      "subBrand": "Speed Champions",
+      "name": "NASCAR Next Gen Chevrolet Camaro ZL1",
+      "price": 26.99,
+      "watching": [],
+      "ref": "https://www.lego.com/it-it/product/nascar-next-gen-chevrolet-camaro-zl1-76935"
     }
   ],
   "last_update": "2024-09-16"
