@@ -397,7 +397,32 @@
       "brand": "LEGO",
       "subBrand": "Speed Champions",
       "name": "Lamborghini Countach"
+    },
+    {
+      "id": "MOC_M23",
+      "brand": "moc",
+      "subBrand": null,
+      "name": "McLaren M23"
+    },
+    {
+      "id": "10621",
+      "brand": "Guly",
+      "subBrand": null,
+      "name": "Alfa Romeo 33 Stradale"
+    },
+    {
+      "id": "MOC_126C2",
+      "brand": "moc",
+      "subBrand": null,
+      "name": "Ferrari 126 C2"
+    },
+    {
+      "id": "C63008W",
+      "brand": "CaDa",
+      "subBrand": null,
+      "name": "Ferrari 499P",
+      "alternativeNames": ["Blazing Flame"]
     }
   ],
-  "last_update": "2024-09-16"
+  "last_update": "2024-11-17"
 }

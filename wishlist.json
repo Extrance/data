@@ -15,6 +15,59 @@
     },
     {
       "category": "LEGO",
+      "id": "C61502W",
+      "brand": "CaDa",
+      "subBrand": "Master",
+      "name": "Mazda RX7",
+      "price": 235.47,
+      "watching": [],
+      "ref": "https://decadastore.com/products/cada-mazda-rx-7-c61502w"
+    },
+    {
+      "category": "LEGO",
+      "id": "C63009W",
+      "brand": "CaDa",
+      "subBrand": null,
+      "name": "Phantom Wing",
+      "alternativeNames": [
+        "Lamborghini SC63"
+      ],
+      "price": 104.11,
+      "watching": [],
+      "ref": "https://decadastore.com/products/cada-1-10-phantom-wing"
+    },
+    {
+      "category": "LEGO",
+      "id": "C55032W",
+      "brand": "CaDa",
+      "subBrand": null,
+      "name": "KICK Sauber F1 Team C44",
+      "price": 25.55,
+      "watching": [],
+      "ref": "https://decadastore.com/products/cada-kick-sauber-f1-team-c44-c55032w"
+    },
+    {
+      "category": "LEGO",
+      "id": "C55029W",
+      "brand": "CaDa",
+      "subBrand": null,
+      "name": "MAZDA 787B (#18) 1991",
+      "price": 21.76,
+      "watching": [],
+      "ref": "https://decadastore.com/products/cada-mazda-787b-18-1991-c55029w"
+    },
+    {
+      "category": "LEGO",
+      "id": "C55033W",
+      "brand": "CaDa",
+      "subBrand": null,
+      "name": "Citroen C4 WRC",
+      "price": 23.65,
+      "watching": [],
+      "ref": "https://decadastore.com/products/cada-bricks-citroen-c4-wrc-c55033w"
+    },
+    {
+      "category": "LEGO",
       "id": "42169",
       "brand": "LEGO",
       "subBrand": "Technic",
@@ -144,5 +197,5 @@
       "ref": "https://www.lego.com/it-it/product/nascar-next-gen-chevrolet-camaro-zl1-76935"
     }
   ],
-  "last_update": "2024-09-16"
+  "last_update": "2024-11-17"
 }
