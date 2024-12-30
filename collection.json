@@ -422,7 +422,19 @@
       "subBrand": null,
       "name": "Ferrari 499P",
       "alternativeNames": ["Blazing Flame"]
+    },
+    {
+      "id": "76921",
+      "brand": "LEGO",
+      "subBrand": "Speed Champions",
+      "name": "Auto da corsa Audi S1 e-tron quattro"
+    },
+    {
+      "id": "10330",
+      "brand": "LEGO",
+      "subBrand": "Icons",
+      "name": "McLaren MP4/4 e Ayrton Senna"
     }
   ],
-  "last_update": "2024-11-17"
+  "last_update": "2024-12-30"
 }

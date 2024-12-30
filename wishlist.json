@@ -78,16 +78,6 @@
     },
     {
       "category": "LEGO",
-      "id": "10330",
-      "brand": "LEGO",
-      "subBrand": "Icons",
-      "name": "McLaren MP4/4 e Ayrton Senna",
-      "price": 79.99,
-      "watching": [],
-      "ref": "https://www.lego.com/it-it/product/mclaren-mp4-4-ayrton-senna-10330"
-    },
-    {
-      "category": "LEGO",
       "id": "76922",
       "brand": "LEGO",
       "subBrand": "Speed Champions",
@@ -105,16 +95,6 @@
       "price": 26.99,
       "watching": [],
       "ref": "https://www.lego.com/it-it/product/ford-mustang-dark-horse-sports-car-76920"
-    },
-    {
-      "category": "LEGO",
-      "id": "76921",
-      "brand": "LEGO",
-      "subBrand": "Speed Champions",
-      "name": "Auto da corsa Audi S1 e-tron quattro",
-      "price": 26.99,
-      "watching": [],
-      "ref": "https://www.lego.com/it-it/product/audi-s1-e-tron-quattro-race-car-76921"
     },
     {
       "category": "LEGO",
@@ -197,5 +177,5 @@
       "ref": "https://www.lego.com/it-it/product/nascar-next-gen-chevrolet-camaro-zl1-76935"
     }
   ],
-  "last_update": "2024-11-17"
+  "last_update": "2024-12-30"
 }
