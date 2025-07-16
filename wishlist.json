@@ -152,6 +152,27 @@
       "price": 26.99,
       "watching": [],
       "ref": "https://www.lego.com/it-it/product/nascar-next-gen-chevrolet-camaro-zl1-76935"
+    },
+
+    {
+      "category": "Videogames",
+      "id": "-",
+      "brand": "Nintendo",
+      "subBrand": "Pokemon",
+      "name": "Pokemon Scudo",
+      "price": 60.00,
+      "watching": [],
+      "ref": "https://www.amazon.it/Nintendo-Pok%C3%A9mon-Scudo-Switch/dp/B07PB1NP25?th=1"
+    },
+    {
+      "category": "Videogames",
+      "id": "-",
+      "brand": "Nintendo",
+      "subBrand": "Pokemon",
+      "name": "Pokemon Perla Splendente",
+      "price": 60.00,
+      "watching": [],
+      "ref": "https://www.google.com/search?q=Pokemon+Perla+Splendente+Nintendo+Switch"
     }
   ],
   "last_update": "2025-07-16"

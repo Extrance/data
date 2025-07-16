@@ -134,14 +134,18 @@
       "brand": "CaDa",
       "subBrand": "Master",
       "name": "Koenigsegg Jesko",
-      "alternativeNames": ["Fantasma Sports Car"]
+      "alternativeNames": [
+        "Fantasma Sports Car"
+      ]
     },
     {
       "id": "C61053W",
       "brand": "CaDa",
       "subBrand": "Master",
       "name": "Apollo Intensa Emozione",
-      "alternativeNames": ["V12 Hypercar"]
+      "alternativeNames": [
+        "V12 Hypercar"
+      ]
     },
     {
       "id": "MOC_MP44",
@@ -362,7 +366,7 @@
     {
       "id": "93510",
       "brand": "Rastar",
-      "subBrand":null,
+      "subBrand": null,
       "name": "Maserati MC20",
       "alternativeNames": [
         "Maserati Nettuno"
@@ -371,7 +375,7 @@
     {
       "id": "92400",
       "brand": "Rastar",
-      "subBrand":null,
+      "subBrand": null,
       "name": "Red Bull RB19"
     },
     {
@@ -387,7 +391,7 @@
       "name": "Brabham BT52"
     },
     {
-      "id": "76917",    
+      "id": "76917",
       "brand": "LEGO",
       "subBrand": "Speed Champions",
       "name": "2 Fast 2 Furious Nissan Skyline GT-R (R34)"
@@ -421,7 +425,9 @@
       "brand": "CaDa",
       "subBrand": null,
       "name": "Ferrari 499P",
-      "alternativeNames": ["Blazing Flame"]
+      "alternativeNames": [
+        "Blazing Flame"
+      ]
     },
     {
       "id": "76921",
@@ -469,9 +475,9 @@
       "id": "C63009W",
       "brand": "CaDa",
       "subBrand": null,
-      "name": "Phantom Wing",
+      "name": "Lamborghini SC63",
       "alternativeNames": [
-        "Lamborghini SC63"
+        "Phantom Wing"
       ]
     },
     {
@@ -479,6 +485,12 @@
       "brand": "LEGO",
       "subBrand": "Speed Champions",
       "name": "1970 Ferrari 512 M"
+    },
+    {
+      "id": "10248",
+      "brand": "LEGO",
+      "subBrand": "Creator",
+      "name": "Ferrari F40"
     }
   ],
   "last_update": "2025-07-16"
