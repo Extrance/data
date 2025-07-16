@@ -464,7 +464,22 @@
       "brand": "moc",
       "subBrand": null,
       "name": "Ferrari 640 F1"
+    },
+    {
+      "id": "C63009W",
+      "brand": "CaDa",
+      "subBrand": null,
+      "name": "Phantom Wing",
+      "alternativeNames": [
+        "Lamborghini SC63"
+      ]
+    },
+    {
+      "id": "76906",
+      "brand": "LEGO",
+      "subBrand": "Speed Champions",
+      "name": "1970 Ferrari 512 M"
     }
   ],
-  "last_update": "2025-04-02"
+  "last_update": "2025-07-16"
 }

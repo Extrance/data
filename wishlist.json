@@ -25,19 +25,6 @@
     },
     {
       "category": "LEGO",
-      "id": "C63009W",
-      "brand": "CaDa",
-      "subBrand": null,
-      "name": "Phantom Wing",
-      "alternativeNames": [
-        "Lamborghini SC63"
-      ],
-      "price": 104.11,
-      "watching": [],
-      "ref": "https://decadastore.com/products/cada-1-10-phantom-wing"
-    },
-    {
-      "category": "LEGO",
       "id": "C55032W",
       "brand": "CaDa",
       "subBrand": null,
@@ -95,16 +82,6 @@
       "price": 26.99,
       "watching": [],
       "ref": "https://www.lego.com/it-it/product/ford-mustang-dark-horse-sports-car-76920"
-    },
-    {
-      "category": "LEGO",
-      "id": "76906",
-      "brand": "LEGO",
-      "subBrand": "Speed Champions",
-      "name": "1970 Ferrari 512 M",
-      "price": 24.99,
-      "watching": [],
-      "ref": "https://www.lego.com/it-it/product/1970-ferrari-512-m-76906"
     },
     {
       "category": "LEGO",
@@ -177,5 +154,5 @@
       "ref": "https://www.lego.com/it-it/product/nascar-next-gen-chevrolet-camaro-zl1-76935"
     }
   ],
-  "last_update": "2024-12-30"
+  "last_update": "2025-07-16"
 }
