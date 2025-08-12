@@ -86,7 +86,8 @@
       "id": "42056",
       "brand": "LEGO",
       "subBrand": "Technic",
-      "name": "Porsche 911 GT3 RS"
+      "name": "Porsche 911 GT3 RS",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1754981948/42056_n5hdi9.png"
     },
     {
       "id": "42141",
@@ -164,7 +165,8 @@
       "id": "42125",
       "brand": "LEGO",
       "subBrand": "Technic",
-      "name": "Ferrari 488 GTE AF Corse"
+      "name": "Ferrari 488 GTE AF Corse",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1754982402/42125_l7u4zg.png"
     },
     {
       "id": "42000",
@@ -212,7 +214,8 @@
       "id": "8653",
       "brand": "clone",
       "subBrand": "Racers",
-      "name": "Ferrari Enzo"
+      "name": "Ferrari Enzo",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1754982199/8653_qbpqpy.png"
     },
     {
       "id": "8386",
