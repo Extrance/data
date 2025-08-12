@@ -274,7 +274,8 @@
       "id": "C64005W",
       "brand": "CaDa",
       "subBrand": null,
-      "name": "Alfa Romeo F1 C42"
+      "name": "Alfa Romeo F1 C42",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755009281/C64005W_bkps7d.png"
     },
     {
       "id": "42171",
@@ -343,16 +344,17 @@
       "name": "Suzuki Katana"
     },
     {
-      "id": "MOC_L43",
+      "id": "MOC-0842",
       "brand": "MOC",
-      "subBrand": null,
+      "subBrand": "roscoPc",
       "name": "Lotus 43"
     },
     {
-      "id": "MOC_L79",
+      "id": "MOC-58335",
       "brand": "MOC",
-      "subBrand": null,
-      "name": "Lotus 79"
+      "subBrand": "roscoPc",
+      "name": "Lotus 79",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755008649/MOC-58335_ox0wat.png"
     },
     {
       "id": "93510",
@@ -370,13 +372,13 @@
       "name": "Red Bull RB19"
     },
     {
-      "id": "MOC_FW14B",
+      "id": "MOC-1236",
       "brand": "MOC",
       "subBrand": "roscoPc",
       "name": "Williams FW14B"
     },
     {
-      "id": "MOC_BT52",
+      "id": "MOC-0838",
       "brand": "MOC",
       "subBrand": "roscoPc",
       "name": "Brabham BT52"
@@ -389,7 +391,7 @@
       "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755002499/MOC-0837_qnqpvq.png"
     },
     {
-      "id": "MOC_M23",
+      "id": "MOC-1817",
       "brand": "MOC",
       "subBrand": "roscoPc",
       "name": "McLaren M23"
@@ -402,10 +404,11 @@
       "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1754986887/Guly_10621_e5ofgg.png"
     },
     {
-      "id": "MOC_126C2",
+      "id": "MOC-43749",
       "brand": "MOC",
       "subBrand": "roscoPc",
-      "name": "Ferrari 126 C2"
+      "name": "Ferrari 126 C2",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755009120/MOC-43749_ccu1qw.png"
     },
     {
       "id": "C63008W",
@@ -433,13 +436,15 @@
       "id": "42202",
       "brand": "LEGO",
       "subBrand": "Technic",
-      "name": "Motocicletta Ducati Panigale V4 S"
+      "name": "Motocicletta Ducati Panigale V4 S",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755009045/42202_fopqka.png"
     },
     {
       "id": "C64010W",
       "brand": "CaDa",
       "subBrand": null,
-      "name": "Sauber C44"
+      "name": "Sauber C44",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755008819/C64010W_ad6wkw.png"
     },
     {
       "id": "MOC-206365",
@@ -452,13 +457,15 @@
       "id": "42207",
       "brand": "LEGO",
       "subBrand": "Technic",
-      "name": "Ferrari SF-24"
+      "name": "Ferrari SF-24",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755008359/42207_rwjs46.png"
     },
     {
-      "id": "MOC_640F1",
+      "id": "MOC-7576",
       "brand": "MOC",
       "subBrand": "roscoPc",
-      "name": "Ferrari 640 F1"
+      "name": "Ferrari 640 F1",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755008743/MOC-7576_jittqx.png"
     },
     {
       "id": "C63009W",
@@ -467,7 +474,8 @@
       "name": "Lamborghini SC63",
       "alternativeNames": [
         "Phantom Wing"
-      ]
+      ],
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755008923/C63009W_xilah0.png"
     },
     {
       "id": "76909",
