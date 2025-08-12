@@ -30,21 +30,24 @@
     },
     {
       "id": "MOC-1234",
-      "brand": "roscoPc",
-      "subBrand": null,
-      "name": "Eagle MK1"
+      "brand": "MOC",
+      "subBrand": "roscoPc",
+      "name": "Eagle MK1",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1754992349/MOC-1234_aay0xh.png"
     },
     {
       "id": "8461",
       "brand": "LEGO",
       "subBrand": "Racers",
-      "name": "Williams F1"
+      "name": "Williams F1",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1754992505/8461_qda9ae.png"
     },
     {
-      "id": "MOC_TP34",
+      "id": "MOC-158318",
       "brand": "MOC",
-      "subBrand": null,
-      "name": "Tyrrell P34"
+      "subBrand": "roscoPc",
+      "name": "Tyrrell P34 (1976)",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1754992665/MOC-158318_o48g4p.png"
     },
     {
       "id": "C61041W",
@@ -53,7 +56,8 @@
       "name": "Lamborghini Centenario",
       "alternativeNames": [
         "Supercar"
-      ]
+      ],
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1754992782/C61041W_e0lm6v.png"
     },
     {
       "id": "T5003",
@@ -66,7 +70,8 @@
       "id": "8674",
       "brand": "LEGO",
       "subBrand": "Racers",
-      "name": "Ferrari F1 Racer 1:8"
+      "name": "Ferrari F1 Racer 1:8",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1754992940/8674_aptqke.png"
     },
     {
       "id": "C61042W",
@@ -88,8 +93,8 @@
     },
     {
       "id": "MOC-12763",
-      "brand": "roscoPc",
-      "subBrand": null,
+      "brand": "MOC",
+      "subBrand": "roscoPc",
       "name": "Ferrari 312T"
     },
     {
@@ -394,13 +399,13 @@
     {
       "id": "MOC_FW14B",
       "brand": "MOC",
-      "subBrand": null,
+      "subBrand": "roscoPc",
       "name": "Williams FW14B"
     },
     {
       "id": "MOC_BT52",
       "brand": "MOC",
-      "subBrand": null,
+      "subBrand": "roscoPc",
       "name": "Brabham BT52"
     },
     {
@@ -418,7 +423,7 @@
     {
       "id": "MOC_M23",
       "brand": "MOC",
-      "subBrand": null,
+      "subBrand": "roscoPc",
       "name": "McLaren M23"
     },
     {
@@ -431,7 +436,7 @@
     {
       "id": "MOC_126C2",
       "brand": "MOC",
-      "subBrand": null,
+      "subBrand": "roscoPc",
       "name": "Ferrari 126 C2"
     },
     {
@@ -482,7 +487,7 @@
     {
       "id": "MOC_640F1",
       "brand": "MOC",
-      "subBrand": null,
+      "subBrand": "roscoPc",
       "name": "Ferrari 640 F1"
     },
     {
