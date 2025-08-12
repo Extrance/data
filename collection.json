@@ -165,13 +165,15 @@
       "name": "Apollo Intensa Emozione",
       "alternativeNames": [
         "V12 Hypercar"
-      ]
+      ],
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755003431/C61053W_bqx4gh.png"
     },
     {
-      "id": "MOC_MP44",
+      "id": "MOC-0845",
       "brand": "MOC",
-      "subBrand": null,
-      "name": "McLaren MP4/4"
+      "subBrand": "roscoPc",
+      "name": "McLaren MP4/4",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755003518/MOC-0845_sgsg9l.png"
     },
     {
       "id": "8070",
@@ -380,6 +382,13 @@
       "name": "Brabham BT52"
     },
     {
+      "id": "MOC-0837",
+      "brand": "MOC",
+      "subBrand": "roscoPc",
+      "name": "Brabham BT46B",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755002499/MOC-0837_qnqpvq.png"
+    },
+    {
       "id": "MOC_M23",
       "brand": "MOC",
       "subBrand": "roscoPc",
@@ -411,7 +420,8 @@
       "id": "10248",
       "brand": "LEGO",
       "subBrand": "Creator",
-      "name": "Ferrari F40"
+      "name": "Ferrari F40",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755002279/10248_yu6yew.png"
     },
     {
       "id": "10330",
