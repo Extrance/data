@@ -80,7 +80,8 @@
       "name": "Ferrari 488 Pista",
       "alternativeNames": [
         "Italian Red Supercar"
-      ]
+      ],
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1754998354/C61042W_kzx4r3.png"
     },
     {
       "id": "C61505W",
@@ -89,13 +90,15 @@
       "name": "Ferrari LaFerrari",
       "alternativeNames": [
         "Viva Hypercar"
-      ]
+      ],
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1754998457/C61505W_pgp41s.png"
     },
     {
       "id": "MOC-12763",
       "brand": "MOC",
       "subBrand": "roscoPc",
-      "name": "Ferrari 312T"
+      "name": "Ferrari 312T",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1754998544/MOC-12763_zlhi83.png"
     },
     {
       "id": "42141",
@@ -128,19 +131,22 @@
       "id": "MY88012",
       "brand": "MoYu Block",
       "subBrand": null,
-      "name": "Koenigsegg Gemera"
+      "name": "Koenigsegg Gemera",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1754998879/MY88012_ilqtdl.png"
     },
     {
       "id": "C61503W",
       "brand": "CaDa",
       "subBrand": "Master",
-      "name": "Mercedes AMG One"
+      "name": "Mercedes AMG One",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1754998983/C61503W_q57hur.png"
     },
     {
       "id": "8454",
       "brand": "LEGO",
       "subBrand": "Racers",
-      "name": "Silver Champion"
+      "name": "Silver Champion",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1754999059/8454_rclfpc.png"
     },
     {
       "id": "C61048W",
@@ -149,7 +155,8 @@
       "name": "Koenigsegg Jesko",
       "alternativeNames": [
         "Fantasma Sports Car"
-      ]
+      ],
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1754999309/C61048W_cu0dvw.png"
     },
     {
       "id": "C61053W",
@@ -322,42 +329,6 @@
       "name": "Vespa 125"
     },
     {
-      "id": "76909",
-      "brand": "LEGO",
-      "subBrand": "Speed Champions",
-      "name": "Mercedes F1 W12 e Mercedes AMG One"
-    },
-    {
-      "id": "76918",
-      "brand": "LEGO",
-      "subBrand": "Speed Champions",
-      "name": "McLaren Solus GT & McLaren F1 LM"
-    },
-    {
-      "id": "76919",
-      "brand": "LEGO",
-      "subBrand": "Speed Champions",
-      "name": "McLaren F1 2023"
-    },
-    {
-      "id": "76916",
-      "brand": "LEGO",
-      "subBrand": "Speed Champions",
-      "name": "Porsche 963"
-    },
-    {
-      "id": "76914",
-      "brand": "LEGO",
-      "subBrand": "Speed Champions",
-      "name": "Ferrari 812 Competizione"
-    },
-    {
-      "id": "76925",
-      "brand": "LEGO",
-      "subBrand": "Speed Champions",
-      "name": "Safety Car Aston Martin e AMR23"
-    },
-    {
       "id": "40517",
       "brand": "LEGO",
       "subBrand": "Creator",
@@ -409,18 +380,6 @@
       "name": "Brabham BT52"
     },
     {
-      "id": "76917",
-      "brand": "LEGO",
-      "subBrand": "Speed Champions",
-      "name": "2 Fast 2 Furious Nissan Skyline GT-R (R34)"
-    },
-    {
-      "id": "76908",
-      "brand": "LEGO",
-      "subBrand": "Speed Champions",
-      "name": "Lamborghini Countach"
-    },
-    {
       "id": "MOC_M23",
       "brand": "MOC",
       "subBrand": "roscoPc",
@@ -449,10 +408,10 @@
       ]
     },
     {
-      "id": "76921",
+      "id": "10248",
       "brand": "LEGO",
-      "subBrand": "Speed Champions",
-      "name": "Auto da corsa Audi S1 e-tron quattro"
+      "subBrand": "Creator",
+      "name": "Ferrari F40"
     },
     {
       "id": "10330",
@@ -473,10 +432,11 @@
       "name": "Sauber C44"
     },
     {
-      "id": "MOC_500F2",
+      "id": "MOC-206365",
       "brand": "MOC",
       "subBrand": null,
-      "name": "Ferrari 500 F2"
+      "name": "Ferrari 500 F2",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1754999488/MOC-206365_jzwgui.png"
     },
     {
       "id": "42207",
@@ -500,16 +460,64 @@
       ]
     },
     {
+      "id": "76909",
+      "brand": "LEGO",
+      "subBrand": "Speed Champions",
+      "name": "Mercedes F1 W12 e Mercedes AMG One"
+    },
+    {
+      "id": "76918",
+      "brand": "LEGO",
+      "subBrand": "Speed Champions",
+      "name": "McLaren Solus GT & McLaren F1 LM"
+    },
+    {
+      "id": "76919",
+      "brand": "LEGO",
+      "subBrand": "Speed Champions",
+      "name": "McLaren F1 2023"
+    },
+    {
+      "id": "76916",
+      "brand": "LEGO",
+      "subBrand": "Speed Champions",
+      "name": "Porsche 963"
+    },
+    {
+      "id": "76914",
+      "brand": "LEGO",
+      "subBrand": "Speed Champions",
+      "name": "Ferrari 812 Competizione"
+    },
+    {
+      "id": "76925",
+      "brand": "LEGO",
+      "subBrand": "Speed Champions",
+      "name": "Safety Car Aston Martin e AMR23"
+    },
+    {
+      "id": "76917",
+      "brand": "LEGO",
+      "subBrand": "Speed Champions",
+      "name": "2 Fast 2 Furious Nissan Skyline GT-R (R34)"
+    },
+    {
+      "id": "76908",
+      "brand": "LEGO",
+      "subBrand": "Speed Champions",
+      "name": "Lamborghini Countach"
+    },
+    {
+      "id": "76921",
+      "brand": "LEGO",
+      "subBrand": "Speed Champions",
+      "name": "Auto da corsa Audi S1 e-tron quattro"
+    },
+    {
       "id": "76906",
       "brand": "LEGO",
       "subBrand": "Speed Champions",
       "name": "1970 Ferrari 512 M"
-    },
-    {
-      "id": "10248",
-      "brand": "LEGO",
-      "subBrand": "Creator",
-      "name": "Ferrari F40"
     }
   ],
   "last_update": "2025-08-12"
