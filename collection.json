@@ -249,7 +249,8 @@
       "id": "8386",
       "brand": "LEGO",
       "subBrand": "Racers",
-      "name": "Ferrari F1 Racer 1:10"
+      "name": "Ferrari F1 Racer 1:10",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755072799/8386_tg1vzh.png"
     },
     {
       "id": "8185",
@@ -262,13 +263,15 @@
       "id": "42110",
       "brand": "LEGO",
       "subBrand": "Technic",
-      "name": "Land Rover Defender"
+      "name": "Land Rover Defender",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755073145/42110_ozvjil.png"
     },
     {
       "id": "42154",
       "brand": "LEGO",
       "subBrand": "Technic",
-      "name": "Ford GT"
+      "name": "Ford GT",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755073224/42154_lnmdag.png"
     },
     {
       "id": "Kaco_C001",
@@ -288,73 +291,85 @@
       "id": "42171",
       "brand": "LEGO",
       "subBrand": "Technic",
-      "name": "Mercedes-AMG F1 W14"
+      "name": "Mercedes-AMG F1 W14",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755073417/42171_zffa3e.png"
     },
     {
       "id": "42130",
       "brand": "LEGO",
       "subBrand": "Technic",
-      "name": "BMW M 1000 RR"
+      "name": "BMW M 1000 RR",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755074242/42130_vbxowy.png"
     },
     {
       "id": "42159",
       "brand": "LEGO",
       "subBrand": "Technic",
-      "name": "Yamaha MT-10 SP"
+      "name": "Yamaha MT-10 SP",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755074346/42159_avcwer.png"
     },
     {
       "id": "42107",
       "brand": "LEGO",
       "subBrand": "Technic",
-      "name": "Ducati Panigale V4 R"
+      "name": "Ducati Panigale V4 R",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755074424/42107_emc6jo.png"
     },
     {
       "id": "8051",
       "brand": "LEGO",
       "subBrand": "Technic",
-      "name": "Motorbike"
+      "name": "Motorbike",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755074792/8051_m2cxsa.png"
     },
     {
       "id": "42063",
       "brand": "LEGO",
       "subBrand": "Technic",
-      "name": "BMW R 1200 GS"
+      "name": "BMW R 1200 GS",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755079076/42063_exvk0q.png"
     },
     {
       "id": "42036",
       "brand": "LEGO",
       "subBrand": "Technic",
-      "name": "Street Motorcycle"
+      "name": "Street Motorcycle",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755079015/42036_ujysb4.png"
     },
     {
       "id": "42170",
       "brand": "LEGO",
       "subBrand": "Technic",
-      "name": "Kawasaki Ninja"
+      "name": "Kawasaki Ninja",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755078959/42170_psmep8.png"
     },
     {
       "id": "10298",
       "brand": "LEGO",
       "subBrand": "Icons",
-      "name": "Vespa 125"
+      "name": "Vespa 125",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755078862/10298_fb1b1z.png"
     },
     {
       "id": "40517",
       "brand": "LEGO",
       "subBrand": "Creator",
-      "name": "Vespa"
+      "name": "Vespa",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755079530/40517_knealw.png"
     },
     {
       "id": "C59021W",
       "brand": "CaDA",
       "subBrand": null,
-      "name": "Suzuki Katana"
+      "name": "Suzuki Katana",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755078763/C59021W_cgvhbi.png"
     },
     {
       "id": "MOC-0842",
       "brand": "MOC",
       "subBrand": "roscoPc",
-      "name": "Lotus 43"
+      "name": "Lotus 43",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755078551/MOC-0842_df9yoc.png"
     },
     {
       "id": "MOC-58335",
@@ -364,31 +379,35 @@
       "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755008649/MOC-58335_ox0wat.png"
     },
     {
-      "id": "93510",
+      "id": "Rastar_93510",
       "brand": "Rastar",
       "subBrand": null,
       "name": "Maserati MC20",
       "alternativeNames": [
         "Maserati Nettuno"
-      ]
+      ],
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755078164/Rastar_93510_dz1l98.png"
     },
     {
-      "id": "92400",
+      "id": "Rastar_92400",
       "brand": "Rastar",
       "subBrand": null,
-      "name": "Red Bull RB19"
+      "name": "Red Bull RB19",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755078058/Rastar_92400_jwylqh.png"
     },
     {
       "id": "MOC-1236",
       "brand": "MOC",
       "subBrand": "roscoPc",
-      "name": "Williams FW14B"
+      "name": "Williams FW14B",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755077926/MOC-1236_sjli0i.png"
     },
     {
       "id": "MOC-0838",
       "brand": "MOC",
       "subBrand": "roscoPc",
-      "name": "Brabham BT52"
+      "name": "Brabham BT52",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755075002/MOC-0838_w8xzr6.png"
     },
     {
       "id": "MOC-0837",
@@ -436,12 +455,6 @@
       "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755002279/10248_yu6yew.png"
     },
     {
-      "id": "10330",
-      "brand": "LEGO",
-      "subBrand": "Icons",
-      "name": "McLaren MP4/4 e Ayrton Senna"
-    },
-    {
       "id": "42202",
       "brand": "LEGO",
       "subBrand": "Technic",
@@ -485,6 +498,13 @@
         "Phantom Wing"
       ],
       "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755008923/C63009W_xilah0.png"
+    },
+    {
+      "id": "10330",
+      "brand": "LEGO",
+      "subBrand": "Icons",
+      "name": "McLaren MP4/4 e Ayrton Senna",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755079595/10330_ez2y5w.png"
     },
     {
       "id": "76909",
