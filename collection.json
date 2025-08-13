@@ -51,7 +51,7 @@
     },
     {
       "id": "C61041W",
-      "brand": "CaDa",
+      "brand": "CaDA",
       "subBrand": "Master",
       "name": "Lamborghini Centenario",
       "alternativeNames": [
@@ -75,7 +75,7 @@
     },
     {
       "id": "C61042W",
-      "brand": "CaDa",
+      "brand": "CaDA",
       "subBrand": "Master",
       "name": "Ferrari 488 Pista",
       "alternativeNames": [
@@ -85,7 +85,7 @@
     },
     {
       "id": "C61505W",
-      "brand": "CaDa",
+      "brand": "CaDA",
       "subBrand": "Master",
       "name": "Ferrari LaFerrari",
       "alternativeNames": [
@@ -136,7 +136,7 @@
     },
     {
       "id": "C61503W",
-      "brand": "CaDa",
+      "brand": "CaDA",
       "subBrand": "Master",
       "name": "Mercedes AMG One",
       "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1754998983/C61503W_q57hur.png"
@@ -150,7 +150,7 @@
     },
     {
       "id": "C61048W",
-      "brand": "CaDa",
+      "brand": "CaDA",
       "subBrand": "Master",
       "name": "Koenigsegg Jesko",
       "alternativeNames": [
@@ -160,7 +160,7 @@
     },
     {
       "id": "C61053W",
-      "brand": "CaDa",
+      "brand": "CaDA",
       "subBrand": "Master",
       "name": "Apollo Intensa Emozione",
       "alternativeNames": [
@@ -179,7 +179,8 @@
       "id": "8070",
       "brand": "LEGO",
       "subBrand": "Technic",
-      "name": "Supercar"
+      "name": "Supercar",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755068121/8070_wfnfzf.png"
     },
     {
       "id": "42125",
@@ -192,19 +193,22 @@
       "id": "42000",
       "brand": "LEGO",
       "subBrand": "Technic",
-      "name": "Grand Prix Racer"
+      "name": "Grand Prix Racer",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755068214/42000_f3ggsp.png"
     },
     {
       "id": "42096",
       "brand": "LEGO",
       "subBrand": "Technic",
-      "name": "Porsche 911 RSR"
+      "name": "Porsche 911 RSR",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755068389/42096_pe8vet.png"
     },
     {
       "id": "42077",
       "brand": "LEGO",
       "subBrand": "Technic",
-      "name": "Rally Car"
+      "name": "Rally Car",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755068460/42077_v2bgmo.png"
     },
     {
       "id": "42156",
@@ -215,21 +219,24 @@
     },
     {
       "id": "C61016",
-      "brand": "CaDa",
+      "brand": "CaDA",
       "subBrand": null,
-      "name": "Porsche 919 Hybrid"
+      "name": "Porsche 919 Hybrid",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755070215/C61016_fwobar.png"
     },
     {
       "id": "42039",
       "brand": "LEGO",
       "subBrand": "Technic",
-      "name": "24 Hours Race Car"
+      "name": "24 Hours Race Car",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755070577/42039_jhujsi.png"
     },
     {
       "id": "42048",
       "brand": "LEGO",
       "subBrand": "Technic",
-      "name": "Race Kart"
+      "name": "Race Kart",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755070656/42048_bpurh2.png"
     },
     {
       "id": "8653",
@@ -272,7 +279,7 @@
     },
     {
       "id": "C64005W",
-      "brand": "CaDa",
+      "brand": "CaDA",
       "subBrand": null,
       "name": "Alfa Romeo F1 C42",
       "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755009281/C64005W_bkps7d.png"
@@ -339,7 +346,7 @@
     },
     {
       "id": "C59021W",
-      "brand": "CaDa",
+      "brand": "CaDA",
       "subBrand": null,
       "name": "Suzuki Katana"
     },
@@ -394,7 +401,8 @@
       "id": "MOC-1817",
       "brand": "MOC",
       "subBrand": "roscoPc",
-      "name": "McLaren M23"
+      "name": "McLaren M23",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755070845/MOC-1817_cjhrvt.png"
     },
     {
       "id": "Guly_10621",
@@ -412,12 +420,13 @@
     },
     {
       "id": "C63008W",
-      "brand": "CaDa",
+      "brand": "CaDA",
       "subBrand": null,
       "name": "Ferrari 499P",
       "alternativeNames": [
         "Blazing Flame"
-      ]
+      ],
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755070764/C63008W_mwmpbw.png"
     },
     {
       "id": "10248",
@@ -441,7 +450,7 @@
     },
     {
       "id": "C64010W",
-      "brand": "CaDa",
+      "brand": "CaDA",
       "subBrand": null,
       "name": "Sauber C44",
       "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755008819/C64010W_ad6wkw.png"
@@ -469,7 +478,7 @@
     },
     {
       "id": "C63009W",
-      "brand": "CaDa",
+      "brand": "CaDA",
       "subBrand": null,
       "name": "Lamborghini SC63",
       "alternativeNames": [
@@ -538,5 +547,5 @@
       "name": "1970 Ferrari 512 M"
     }
   ],
-  "last_update": "2025-08-12"
+  "last_update": "2025-08-13"
 }
