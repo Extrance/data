@@ -490,6 +490,20 @@
       "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755008743/MOC-7576_jittqx.png"
     },
     {
+      "id": "MOC-25854",
+      "brand": "MOC",
+      "subBrand": "roscoPc",
+      "name": "Toleman TG184",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1758726383/MOC-25854_pewxt9.png"
+    },
+    {
+      "id": "MOC-14940",
+      "brand": "MOC",
+      "subBrand": "roscoPc",
+      "name": "Matra MS80",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1758726521/MOC-14940_offmmr.png"
+    },
+    {
       "id": "C63009W",
       "brand": "CaDA",
       "subBrand": null,
@@ -507,65 +521,82 @@
       "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1755079595/10330_ez2y5w.png"
     },
     {
+      "id": "10353",
+      "brand": "LEGO",
+      "subBrand": "Icons",
+      "name": "Williams Racing FW14B e Nigel Mansell",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1758724312/10353_lxnewx.png"
+    },
+    {
       "id": "76909",
       "brand": "LEGO",
       "subBrand": "Speed Champions",
-      "name": "Mercedes F1 W12 e Mercedes AMG One"
+      "name": "Mercedes F1 W12 e Mercedes AMG One",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1758715226/76909_bmjhw0.png"
     },
     {
       "id": "76918",
       "brand": "LEGO",
       "subBrand": "Speed Champions",
-      "name": "McLaren Solus GT & McLaren F1 LM"
+      "name": "McLaren Solus GT & McLaren F1 LM",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1758723740/76918_yfolhx.png"
     },
     {
       "id": "76919",
       "brand": "LEGO",
       "subBrand": "Speed Champions",
-      "name": "McLaren F1 2023"
+      "name": "McLaren F1 2023",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1758723822/76919_omgye6.png"
     },
     {
       "id": "76916",
       "brand": "LEGO",
       "subBrand": "Speed Champions",
-      "name": "Porsche 963"
+      "name": "Porsche 963",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1758723881/76916_dopawg.png"
     },
     {
       "id": "76914",
       "brand": "LEGO",
       "subBrand": "Speed Champions",
-      "name": "Ferrari 812 Competizione"
+      "name": "Ferrari 812 Competizione",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1758723931/76914_rsbjkl.png"
     },
     {
       "id": "76925",
       "brand": "LEGO",
       "subBrand": "Speed Champions",
-      "name": "Safety Car Aston Martin e AMR23"
+      "name": "Safety Car Aston Martin e AMR23",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1758723985/76925_aiikyd.png"
     },
     {
       "id": "76917",
       "brand": "LEGO",
       "subBrand": "Speed Champions",
-      "name": "2 Fast 2 Furious Nissan Skyline GT-R (R34)"
+      "name": "2 Fast 2 Furious Nissan Skyline GT-R (R34)",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1758724047/76917_tgsklh.png"
     },
     {
       "id": "76908",
       "brand": "LEGO",
       "subBrand": "Speed Champions",
-      "name": "Lamborghini Countach"
+      "name": "Lamborghini Countach",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1758724097/76908_qiuipq.png"
     },
     {
       "id": "76921",
       "brand": "LEGO",
       "subBrand": "Speed Champions",
-      "name": "Auto da corsa Audi S1 e-tron quattro"
+      "name": "Auto da corsa Audi S1 e-tron quattro",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1758724162/76921_oxvh6n.png"
     },
     {
       "id": "76906",
       "brand": "LEGO",
       "subBrand": "Speed Champions",
-      "name": "1970 Ferrari 512 M"
+      "name": "1970 Ferrari 512 M",
+      "image": "https://res.cloudinary.com/dwkbunzmb/image/upload/v1758724211/76906_jt0exn.png"
     }
   ],
-  "last_update": "2025-08-13"
+  "last_update": "2025-09-24"
 }
